@@ -1,4 +1,4 @@
-token=NTAxMzE0MDQxNzY4MTgxNzg1.DqXk8w.Cs_96wSIfmE-lxq__38jX1G-GZM
+token=NTAxMjc3Njc2Mzg0ODEzMDU2.DqXsLg.XlhKGzKMCIYpEYMyI60aaWT-kbU
 owner=487631621739249665
 prefix=G
 game=Tybe Ghelp
