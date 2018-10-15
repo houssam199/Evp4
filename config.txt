@@ -1,6 +1,6 @@
 token=NTAwODcwMzk1NDQ0OTg1ODU3.DqWqwQ.F5h-5NnYSDd5Geu1232VVwNCyf0
-owner=446784051320193035
-prefix=4
-game=Triple 7
+owner=487631621739249665
+prefix=G
+game=Tybe Ghelp
 stayinchannel=true
 songinstatus=false
